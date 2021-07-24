@@ -477,3 +477,5 @@ Project is working - just missing useCallback which is needed to prevent an infi
     }
   },[searchTerm, fetchDrinks]);
 ```
+
+***End walkthrough
