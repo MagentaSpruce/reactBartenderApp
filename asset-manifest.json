@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactBartenderApp/static/css/main.db6e84ad.chunk.css",
+    "main.js": "/reactBartenderApp/static/js/main.db89520d.chunk.js",
+    "main.js.map": "/reactBartenderApp/static/js/main.db89520d.chunk.js.map",
+    "runtime-main.js": "/reactBartenderApp/static/js/runtime-main.aa5cdcc1.js",
+    "runtime-main.js.map": "/reactBartenderApp/static/js/runtime-main.aa5cdcc1.js.map",
+    "static/js/2.72303b8e.chunk.js": "/reactBartenderApp/static/js/2.72303b8e.chunk.js",
+    "static/js/2.72303b8e.chunk.js.map": "/reactBartenderApp/static/js/2.72303b8e.chunk.js.map",
+    "index.html": "/reactBartenderApp/index.html",
+    "precache-manifest.eb86ee691442031c08e07d216f6555c9.js": "/reactBartenderApp/precache-manifest.eb86ee691442031c08e07d216f6555c9.js",
+    "service-worker.js": "/reactBartenderApp/service-worker.js",
+    "static/css/main.db6e84ad.chunk.css.map": "/reactBartenderApp/static/css/main.db6e84ad.chunk.css.map",
+    "static/js/2.72303b8e.chunk.js.LICENSE.txt": "/reactBartenderApp/static/js/2.72303b8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactBartenderApp/static/media/logo.f3ad7664.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa5cdcc1.js",
+    "static/js/2.72303b8e.chunk.js",
+    "static/css/main.db6e84ad.chunk.css",
+    "static/js/main.db89520d.chunk.js"
+  ]
+}
