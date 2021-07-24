@@ -475,5 +475,5 @@ Project is working - just missing useCallback which is needed to prevent an infi
       console.log(error);
       setLoading(false);
     }
-  },[searchTerm]);
+  },[searchTerm, fetchDrinks]);
 ```
